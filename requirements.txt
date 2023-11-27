@@ -1,0 +1,16 @@
+blinker
+click
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+blinker
+click
+Flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+packaging
+Werkzeug
